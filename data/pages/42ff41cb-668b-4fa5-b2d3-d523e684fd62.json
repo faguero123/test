@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f74fca3f-d1ae-46b8-b4b3-08e385535c0d",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-12-26T05:30:21.759Z",
   "created_by": "faguero123",
   "title": "Amalia Ulman Today",
   "slug": "amalia-ulman-today",
-  "updated_at": "2025-12-26T05:30:21.759Z",
+  "updated_at": "2025-12-26T05:57:48.031Z",
   "updated_by": "faguero123",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "f74fca3f-d1ae-46b8-b4b3-08e385535c0d"
   }
