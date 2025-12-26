@@ -1,5 +1,467 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pair introduce Photolog, a significant social media platform for Ulman. Both have written extensively about subcultures that developed on Photolog in Argentina and Chile. For more, read Thelot's \"Fotolog, Floggers and the aesthetics of platforms\" and Ulman's \"F/F\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "12fb9285-80dc-4c8c-af12-3bcebdf28f85"
+    },
+    {
+      "start_time": 60,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ulman is formally identified as an Argentine/Spanish artist whose extensive work spans performance, installation, video, and net artworks. She is currently active as a film director, having transitioned to this medium as a way to gain narrative control over the complex elements of her art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "3e093c67-9abf-4227-aa97-df16854bb234"
+    },
+    {
+      "start_time": 134,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fotolog was an influential image-sharing platform particularly popular in South America, noted for its design constraint that limited users to sharing only one image daily. This technical limitation was seen as a way to make the free version more enjoyable and fun due to the creativity required within its rigid structure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "36b95953-3ef0-4844-a9ef-f015f7c088c5"
+    },
+    {
+      "start_time": 320,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The platform served as a crucial meeting point for people with shared interests, fostering the development of various subcultures, including the Cumbieros and Pokemones. These groups utilized the digital space to commemorate their distinct styles and fashion, ultimately facilitating organized real-world social interaction and community formation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "9b9a9fe7-4a2e-4593-8860-416e45a9194f"
+    },
+    {
+      "start_time": 370,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although Ulman initially felt deep shame regarding her time on Photolog, she now sees this early digital engagement with aesthetics and audience perception as a foundational element of her artistic methodology. Her history with online identity management and the desire to be taken seriously as an artist informed her later, highly conceptualized performances."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "f597b2b6-056e-4cb7-9887-505bf108e875"
+    },
+    {
+      "start_time": 533,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman's early aesthetic skills included making and selling clothes, a pursuit which provided the necessary funds to travel and network in bigger cities. This deep engagement with visual culture taught her how to meticulously stage photographs to manage the audience's perception of her social and class markers, concealing her limited resources."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        },
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "3040c959-6d5c-4ccd-a52d-a3d7101a2f2c"
+    },
+    {
+      "start_time": 624,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In London, Ulman was surprised by the non-digital focus of the art school environment, where her net art (developed through early knowledge of coding on platforms like Live Journal) was often undervalued or literally disqualified. This resistance validated her perspective that pervasive internet access had become the inescapable norm, a core concept of Postinternet Art. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Postinternet Art"
+        }
+      ],
+      "uuid": "723ac09c-566a-4d20-bd03-ed6ad8659f66"
+    },
+    {
+      "start_time": 952,
+      "end_time": 1017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman recognized that the emerging digital art scene and her academic setting were characterized by a strongly masculine and exclusive culture that dismissed ideas related to performance or conventional femininity. She consciously decided to challenge this ingrained bias by maintaining a feminine appearance while being a respected, serious director."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "9a92fc72-5adf-4062-92fa-567df49b36bd"
+    },
+    {
+      "start_time": 1017,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The three-part, scripted Excellences & Perfections (E&P) performance was a structural critique of idealized \"female perfect Behavior\" found on social media, intentionally adopting cliché archetypes. Ulman aimed to satirize the narrative of breakdown, apology, and rescue that fuels the online consumption and commodification of suffering. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        },
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a75b3b96-39fb-4200-9f9d-f9ab2399cf51"
+    },
+    {
+      "start_time": 1064,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman explicitly denied the widely circulated rumor that she was illegally accessing locations for E&P, confirming that she \"paid for the hotels\" used in the performance. She focused immense effort on meticulously staging the affluent interiors to convincingly replicate the consumerist fantasy promoted by privileged social media feeds. This directly contradicts\nDean Kissick's 2014 article published in iD magazine, which descibes Amalia Ulman \"sneaking into luxury hotels to take selfies.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "61f4ea07-327d-4297-a30f-4ba1f8c22a46"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The project’s central premise was to manipulate the audience's perception, demonstrating that a visual lie can gain more credibility than actual verbalized truth because people are conditioned to rely on visual narratives. By adopting familiar archetypes, she enabled the audience to easily generate the scripted narrative and draw predictable conclusions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "62b0c577-99d5-452d-80b6-e92d0588fa10"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 2142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman identifies the compulsion to constantly update and provide content as a form of \"anxious ambition\" driven by the fierce competition for popularity and \"cultural capital\" in virtual environments. This demand transforms self-presentation into a continuous, uncompensated labor that feels like an \"endless interview with no interviewers\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "14f47ab2-5f62-407a-908b-bcb1ccbca786"
+    },
+    {
+      "start_time": 2142,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "E&P was divided into three distinct, scripted phases, each embodying a recognized female stereotype: the cute ingénue, the hyper-sexualized sugar baby, and the cleansed life goddess. This structural use of archetypes, which included staged elements like plastic surgery and drug use, made the narrative instantly comprehensible to the online audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "5e1f95db-21b1-4fe1-b760-45582d536539"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 2489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment focuses on the emotional exploitation inherent in network economies, creating an environment where \"the sadder the girl, the happier the troll\". Ulman intended to make the audience feel profound discomfort for consuming a narrative of self-destruction and desiring another human's sorrow.  (https://deborahschamoni.com/media/pages/artists/amalia-ulman/bbaac4392f-1696952923/amalia-ulman-e-p-press-s.pdf)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "1d74b507-a4ff-4316-b93c-f6e719bf96a9"
+    },
+    {
+      "start_time": 2489,
+      "end_time": 2665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Ulman utilizes the concept of \"middlebrow\" to characterize the aesthetics and protagonists in her art, reflecting an interest in common, non-elite cultural signifiers. This focus is part of her larger project analyzing the aesthetics of legitimacy and the visual standards imposed by institutions and places of power."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "ae002233-aae4-49a7-8188-c1ad61ab6c8d"
+    },
+    {
+      "start_time": 2665,
+      "end_time": 2767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her aesthetic choices, spanning video essays and installations, are rooted in \"European working-class aesthetics,\" a preference directly linked to her upbringing in a factory-driven region of Spain. She uses this style to move away from the pressure to exoticize her Argentine background for international audiences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "15492dde-f6bb-4704-ba72-cec2c4342594"
+    },
+    {
+      "start_time": 2767,
+      "end_time": 2852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman critically links physical appearance to professional success, pointing out that an artwork's value can escalate based on the artist's perceived beauty or social media followers. This observation underscores the pervasive \"electronic economy of looking good,\" where commercial and cultural values are inextricably tied to curated self-presentation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        },
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "c46b2be4-49ef-4c6f-ae3d-d47a34b68af3"
+    },
+    {
+      "start_time": 2852,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Paneta is Ulman's first feature film, identified as a \"dark comedy about eviction\" that features her mother. The film signifies a deliberate thematic return to the context of Spain and the \"European working-class aesthetics\" that fuel much of her critical inquiry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "3058858e-9cf6-4735-bc05-2a301944e3f6"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman revealed that her early reliance on meticulously scripted formats, such as PowerPoint presentations for artist talks, stemmed from her autism and was a strategy to maintain composure and control during public appearances. These initial scripts evolved into video essays that allowed her to be in charge of her narrative and became recognized artworks in themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Neurodivergence and Scripted Performance",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Video Essays",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "4511b5e9-3da1-4e96-a5e8-13ff2b9f79e8"
+    },
+    {
+      "start_time": 3229,
+      "end_time": 3389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To ensure separation between her performance and her real life, Ulman condensed a month's worth of content production for E&P into a single week. During the period when her online persona was supposedly self-destructing, Ulman was actually working at a remote meditation retreat \"cleaning cabins and cooking vegan meals,\" reinforcing the fictional nature of her online life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Performance Method"
+        }
+      ],
+      "uuid": "61873684-aaaa-4a3f-bc56-fc6adc2c90c3"
+    },
+    {
+      "start_time": 3389,
+      "end_time": 3720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman has frequently drawn inspiration from cinema, particularly directors like David Lynch, and elements of her second performance, Privilege, reflected this influence. The immersive installation for Privilege included deep red curtains and checkered floors that critics noted created a specific atmospheric quality reminiscent of Lynch's work"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "88baf557-9719-49f3-8d26-a940205e962c"
+    }
+  ],
   "set": "Default",
   "event_id": "f74fca3f-d1ae-46b8-b4b3-08e385535c0d",
   "source_id": "be42416b-300a-4a46-8098-706aa153b311"
